@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c933cd0ac6.nulknom.cn/sitemap.xml
